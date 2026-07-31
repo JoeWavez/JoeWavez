@@ -15,7 +15,7 @@
 
 <table>
   <tr>
-    <td width="48%" align="center">
+    <td width="45%" align="center">
       <b>Main Rig</b><br><br>
       7800x3D<br>
       B650 Aorus Ultra<br>
@@ -29,10 +29,8 @@
       FormD T1<br>
       32GB DDR5 CL30, 6000MHz
     </td>
-    <td width="4%" align="center" style="border-left: 1px solid #30363d;">
-      &nbsp;
-    </td>
-    <td width="48%" align="center">
+    <td width="10%"></td>
+    <td width="45%" align="center">
       <b>Secondary / Server Rig</b><br><br>
       7500F<br>
       B650 White<br>
@@ -50,7 +48,5 @@
 </table>
 
 ---
-
-</div>
 
 </div>
