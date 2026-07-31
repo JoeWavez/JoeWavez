@@ -19,27 +19,27 @@
   <tr>
     <td width="50%" align="center">
      
-7800x3d | 7500f                                                             
+7800x3d                                                            
       
-B650 Aorus Ultra/ B650 White
+B650 Aorus Ultra
 
-4tb | 10tb
+4tb 
 
-SF850 | RM850
+SF850 
 
-9070xt | 1660 Super
+9070xt 
 
-Arctic P12 | Artic P12 
+Arctic P12 
 
-AXP90-X47 | Id-Cooling 360mm
+AXP90-X47 
 
-Noctua Swap | Tp-Link 2.5g Switch
+Noctua Swap 
 
-Zcooi Custom Cables | Tp-Link Router
+Zcooi Custom Cables
 
-FormD T1 | Antec C5
+FormD T1 
 
-32gb DDR5 Cl30, 6000mhz | Ethernet Cables
+32gb DDR5 Cl30, 6000mhz 
 
 
   </tr>
