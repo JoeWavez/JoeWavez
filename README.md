@@ -18,7 +18,8 @@
 <table>
   <tr>
     <td width="50%" align="center">
-7800x3d
+      :---:
+7800x3d                                                                                    
       
 B650 Aorus Ultra
 
@@ -41,6 +42,8 @@ FormD T1
 32gb DDR5 Cl30, 6000mhz
 
 Fmmj Ram Jacket
+:---
+testing
     </td>
   </tr>
 </table>
