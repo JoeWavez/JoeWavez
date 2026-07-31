@@ -13,7 +13,7 @@
 <br>
 
 
-### 💻 Pc Specs | 
+### 💻 Pc Specs 
 
 <table>
   <tr>
