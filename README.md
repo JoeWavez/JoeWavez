@@ -29,7 +29,7 @@
       FormD T1<br>
       32GB DDR5 CL30, 6000MHz
     </td>
-    <td width="10%"></td>
+    <td width="10%" style="border: none;"></td>
     <td width="45%" align="center">
       <b>Secondary / Server Rig</b><br><br>
       7500F<br>
@@ -48,7 +48,5 @@
 </table>
 
 ---
-
-</div>
 
 </div>
