@@ -19,7 +19,7 @@
   <tr>
     <td width="50%" align="center">
      
-7800x3d                                                                                    
+7800x3d | test                                                                    
       
 B650 Aorus Ultra
 
